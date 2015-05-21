@@ -1,0 +1,16 @@
+{
+  "name": "kraken-devtools-less",
+  "version": "0.1.0",
+  "description": "plugin less for kraken-devtools that allows pass less options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Godoy <godoy.jf@gmail.com>",
+  "license": "MIT",
+  "keywords": ["kraken-devtools", "less"],
+  "peerDependencies": {
+  	"kraken-devtools": "~1.2.2",
+  	"less": "^1.7.5"
+  }
+}
